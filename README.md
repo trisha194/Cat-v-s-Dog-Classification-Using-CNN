@@ -1,5 +1,3 @@
-# Cat-v-s-Dog-Classification-Using-CNN
-
 # Cat vs Dog Classification
 
 This project uses a Convolutional Neural Network (CNN) to classify images of cats and dogs. The dataset is sourced from Kaggle, and TensorFlow/Keras is utilized for building and training the model.
